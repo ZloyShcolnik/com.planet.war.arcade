@@ -154,7 +154,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.gerwgiuheerug.hiweufhiuwhgiuhewrg
+    Android: com.planet.war.arcade
     Standalone: com.DefaultCompany.2DProject
   buildNumber:
     Standalone: 0
@@ -272,7 +272,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: b28dbafca11017f4d8ffa3b7d690c26b, type: 3}
+      m_Icon: {fileID: 2800000, guid: 3bbbb726f3b1a7640864cc3d209e18b5, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

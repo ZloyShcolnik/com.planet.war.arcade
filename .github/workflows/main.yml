@@ -7,7 +7,7 @@ env:
   UNITY_EMAIL: "unitydatastorage@gmail.com"
   UNITY_PASSWORD: "qwerty12345Q"
   
-  APP_NAME: "com.planet.war.arcade-test"
+  APP_NAME: "com.planet.war.arcade-release"
   
   AndroidKeystorePass: "qwerty"
   AndroidKeyaliasPass: "qwerty"
